@@ -1,6 +1,6 @@
 # Working-of-javascript-assignment
 
-Ques 1  Write a function called "addnumaer" that take two Number a argument and return their sum. Call all the function Before it is declared to demonstrate  hosting 
+Ques 1  Write a function called "addnumber" that take two Number a argument and return their sum. Call all the function Before it is declared to demonstrate  hosting 
 
 Ans  In JavaScript, function declarations are hoisted, meaning they can be called before they are declared in the code. Here's an example of a function called "addNumbers" that takes two numbers as arguments and returns their sum, demonstrating function hoisting:
 
